@@ -389,13 +389,13 @@
   .toc a,
   .toc a.toc-link {
     color: var(--color-muted-foreground);
-    line-height: 1.25;
+    font-weight: 300;
+    line-height: 1.35;
     text-decoration: none;
     display: block;
     padding: 2px 0;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
+    white-space: normal;
+    overflow-wrap: break-word;
     transition: color 120ms ease;
   }
 
@@ -407,7 +407,7 @@
   .toc a[aria-current="true"],
   .toc a.toc-link[aria-current="true"] {
     color: var(--color-accent);
-    font-weight: 600;
+    font-weight: 500;
   }
 
   .toc-sublist[aria-expanded="true"] {
