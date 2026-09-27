@@ -10,6 +10,7 @@ import rehypeKatex from 'rehype-katex'
 import rehypeSlug from 'rehype-slug'
 import {remarkCallouts} from './src/plugins/remark-callouts.ts'
 import {remarkCodeGroups, rehypeCodeTabs} from './src/plugins/code-tabs.ts'
+import {rehypeExternalLinks} from './src/plugins/rehype-external-links.ts'
 
 const expressiveConfig = {
     themes: ['github-dark'],
@@ -62,6 +63,7 @@ const processor = unified({
     remarkPlugins: [remarkGfm, remarkMath, remarkCallouts, remarkCodeGroups],
     rehypePlugins: [
         rehypeSlug,
+        rehypeExternalLinks,
         rehypeKatex,
         [rehypeExpressiveCode, expressiveConfig],
         rehypeCodeTabs,
