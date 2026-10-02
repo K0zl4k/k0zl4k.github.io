@@ -6,11 +6,11 @@
         "note": "Muchas gracias por visitar mi blog y compartir conmigo"
     },
     "site": {
-        "name": "example.com",
-        "url": "https://example.com",
-        "title": "John Doe - Software Engineer",
-        "description": "Software engineer specializing in web applications, APIs, and cloud infrastructure",
-        "locale": "en_US",
+        "name": "k0zl4k.github.io",
+        "url": "https://k0zl4k.github.io/",
+        "title": "K0zl4k - Ingeniero de Sistemas",
+        "description": "Ingeniero de sistemas enfocado en Ciberseguridad",
+        "locale": "en_ES",
         "ogImage": ""
     },
     "contacts": [
@@ -27,7 +27,7 @@
             "rel": "noopener noreferrer"
         }
     ],
-    "resume": {
+    /*"resume": {
         "name": "John Doe",
         "role": "Software Engineer",
         "bio": "Software engineer with a broad background across web applications, APIs, databases, and cloud infrastructure. Focused on clean architecture, automation, and shipping reliable software.",
@@ -120,5 +120,5 @@
                 "period": "2017 — 2021"
             }
         ]
-    }
+    }*/
 }
