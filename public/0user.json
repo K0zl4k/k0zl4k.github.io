@@ -27,7 +27,7 @@
             "rel": "noopener noreferrer"
         }
     ],
-    /*"resume": {
+    "resume": {
         "name": "John Doe",
         "role": "Software Engineer",
         "bio": "Software engineer with a broad background across web applications, APIs, databases, and cloud infrastructure. Focused on clean architecture, automation, and shipping reliable software.",
@@ -120,5 +120,5 @@
                 "period": "2017 — 2021"
             }
         ]
-    }*/
+    }
 }
