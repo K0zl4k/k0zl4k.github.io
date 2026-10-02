@@ -35,5 +35,5 @@
     "@types/mdast": "^4.0.4",
     "rehype-expressive-code": "0.44.2",
     "typescript": "^6.0.3"
-  },
+  }
 }
