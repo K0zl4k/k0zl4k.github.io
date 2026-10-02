@@ -71,6 +71,7 @@ const processor = unified({
 })
 
 export default defineConfig({
+    site: 'https://k0zl4k.github.io',
     integrations: [react()],
     vite: {
         plugins: [tailwindcss()],
