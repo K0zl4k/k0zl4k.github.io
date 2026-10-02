@@ -2,14 +2,14 @@
     "name": "K0zl4k",
     "role": "Ingeniero de Sistemas",
     "home": {
-        "bio": "Profesional el ingeniería de sistemas, especialista en ciberseguridad, actualmente documentando toda la investigación, laboratorios, ejercicios y trabajo para compartir con la comunidad tecnológica",
-        "note": "Muchas gracias por visitar mi blog y compartir conmigo"
+        "bio": "Profesional el ingeniería de sistemas, especialista en ciberseguridad, actualmente documentando toda la investigación, laboratorios, ejercicios y trabajo para compartir con la comunidad tecnológica.",
+        "note": "Muchas gracias por visitar mi blog y compartir conmigo."
     },
     "site": {
         "name": "k0zl4k.github.io",
         "url": "https://k0zl4k.github.io/",
         "title": "K0zl4k - Ingeniero de Sistemas",
-        "description": "Ingeniero de sistemas enfocado en Ciberseguridad",
+        "description": "Ingeniero de sistemas enfocado en Ciberseguridad.",
         "locale": "en_ES",
         "ogImage": ""
     },
@@ -28,9 +28,9 @@
         }
     ],
     "resume": {
-        "name": "John Doe",
-        "role": "Software Engineer",
-        "bio": "Software engineer with a broad background across web applications, APIs, databases, and cloud infrastructure. Focused on clean architecture, automation, and shipping reliable software.",
+        "name": "K0zl4k",
+        "role": "Ingeniero de Sistemas",
+        "bio": "Ingeniero de sistemas enfocado en Ciberseguridad.",
         "downloads": {
             "cv": {
                 "label": "download cv",
