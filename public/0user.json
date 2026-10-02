@@ -25,20 +25,6 @@
             "href": "https://github.com/K0zl4k",
             "target": "_blank",
             "rel": "noopener noreferrer"
-        },
-        {
-            "label": "twitter",
-            "text": "@johndoe",
-            "href": "https://x.com/_kozlak",
-            "target": "_blank",
-            "rel": "noopener noreferrer"
-        },
-        {
-           "label": "discord",
-           "text": "@johndoe",
-            "href": "https://discord.com/users/000000000000000000",
-            "target": "_blank",
-           "rel": "noopener noreferrer"
         }
     ],
     "resume": {
