@@ -1,9 +1,9 @@
 {
-    "name": "John Doe",
-    "role": "Software Engineer",
+    "name": "K0zl4k",
+    "role": "Ingeniero de Sistemas",
     "home": {
-        "bio": "Generalist software engineer focused on building reliable, maintainable systems — equally comfortable across the frontend, backend, and infrastructure layers.",
-        "note": "Thanks for visiting! This is a demo site with placeholder content."
+        "bio": "Profesional el ingeniería de sistemas, especialista en ciberseguridad, actualmente documentando toda la investigación, laboratorios, ejercicios y trabajo para compartir con la comunidad tecnológica",
+        "note": "Muchas gracias por visitar mi blog y compartir conmigo"
     },
     "site": {
         "name": "example.com",
@@ -16,29 +16,29 @@
     "contacts": [
         {
             "label": "email",
-            "text": "john.doe@example.com",
-            "href": "mailto:john.doe@example.com"
+            "text": "kozlakpages@gmail.com",
+            "href": "mailto:kozlakpages@gmail.com"
         },
         {
             "label": "github",
-            "text": "@johndoe",
-            "href": "https://github.com/johndoe",
+            "text": "@K0zl4k",
+            "href": "https://github.com/K0zl4k",
             "target": "_blank",
             "rel": "noopener noreferrer"
         },
         {
             "label": "twitter",
             "text": "@johndoe",
-            "href": "https://x.com/johndoe",
+            "href": "https://x.com/_kozlak",
             "target": "_blank",
             "rel": "noopener noreferrer"
         },
         {
-            "label": "discord",
-            "text": "@johndoe",
+           "label": "discord",
+           "text": "@johndoe",
             "href": "https://discord.com/users/000000000000000000",
             "target": "_blank",
-            "rel": "noopener noreferrer"
+           "rel": "noopener noreferrer"
         }
     ],
     "resume": {
